@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - 🌱 I’m learning Systems Performance for throughput-or-latency-sensitive applications.
 - How to reach me:
   - 📫 email: [1058018384@qq.com](mailto:1058018384@qq.com)
-  - <img src="./icon/weixin.svg" height="15em"  alt="wechat"> wechat: oi_dzf
+  - <img src="./icon/weixin.svg" height="15em"  alt="wechat"> wechat: Qing
   - <img src="./icon/bilibili.svg" height="15em"  alt="bilibili"> bilibili:  [@鹦鹉芭蕉](https://space.bilibili.com/354741030)
