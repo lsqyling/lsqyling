@@ -1,0 +1,26 @@
+### Hello everyone! 👋
+
+<!--
+**lsqyling/lsqyling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+![lsqyling's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsqyling&hide=issues&count_private=true&show_icons=true&theme=onedark)
+
+- 😄 I am a full-time developer major in Computer Science and C++.
+- 🔭 I’m currently working on [tsinghua_dsa](https://github.com/lsqyling/tsinghua_dsa), a C++ library,same as 912 Key Courses for the CS Postgraduate Entrance Examination.
+- 🌱 I’m learning Systems Performance for throughput-or-latency-sensitive applications.
+- How to reach me:
+  - 📫 email: [1058018384@qq.com](mailto:1058018384@qq.com)
+  - <img src="./icon/weixin.svg" height="15em"  alt="wechat"> wechat: oi_dzf
+  - <img src="./icon/bilibili.svg" height="15em"  alt="bilibili"> bilibili:  [@鹦鹉芭蕉](https://space.bilibili.com/354741030)
